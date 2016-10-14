@@ -68,7 +68,7 @@ p {
 }
 
 .image {
-  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-4/htmlcss1-img_soccer.jpeg");
+  background-image: url("http://www.coneliand.dk/Danmarks%20aeldste%20forretninger/DAEF%20600-651/Tuborg%20bryggerier,%20Hellerup.jpg");
   background-size: cover;
   background-position: center;
   height: 300px;
